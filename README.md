@@ -1,5 +1,10 @@
 # vue_supermall
 
+
+
+        我不能忘记，不论是我的明天，要去哪里，而至少快乐伤心我自己决定。
+
+
 ## Project setup
 ```
 npm install
